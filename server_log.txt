@@ -1,0 +1,44 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:57:03] filterscripts = ""  (string)
+[18:57:03] 
+[18:57:03] Server Plugins
+[18:57:03] --------------
+[18:57:03]  Loading plugin: streamer.dll
+[18:57:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:57:03]   Loaded.
+[18:57:03]  Loading plugin: sscanf.dll
+[18:57:03] 
+
+[18:57:03]  ===============================
+
+[18:57:03]       sscanf plugin loaded.     
+
+[18:57:03]          Version:  2.8.3        
+
+[18:57:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:57:03]  ===============================
+
+[18:57:03]   Loaded.
+[18:57:03]  Loaded 2 plugins.
+
+[18:57:03] 
+[18:57:03] Filterscripts
+[18:57:03] ---------------
+[18:57:03]   Loaded 0 filterscripts.
+
+[18:57:03] Number of vehicle models: 0
+[18:59:25] [connection] 127.0.0.1:64617 requests connection cookie.
+[18:59:26] [connection] incoming connection: 127.0.0.1:64617 id: 0
+[18:59:26] [join] Near has joined the server (0:127.0.0.1)
